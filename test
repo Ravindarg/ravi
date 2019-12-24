@@ -1,0 +1,3 @@
+git reset filename is used to revert the file locally.
+git revert command is to remove commited file
+
