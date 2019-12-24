@@ -1,0 +1,4 @@
+git status   which shows the current point to the git master or feature.
+git branch -a    shows all the branches in git.
+git checkout master/feature   switching from one branch to another branch.
+
